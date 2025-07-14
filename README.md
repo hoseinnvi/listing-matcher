@@ -155,7 +155,6 @@ Full rationale in **Approach.md**.
 
 ## Memory & performance
 
-*Hardware*: Apple M1 / 16 GB
 
 | Metric                     | Value       |
 | -------------------------- | ----------- |
