@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/logo.png" width="140" alt="Reffie Matcher logo"/>
+</p>
 # 🏠 Reffie Property-Listing Matcher
 
 Match free‑form **listings** to canonical **properties** with high precision, < 20 MB inference RAM, and a FastAPI micro‑service.
