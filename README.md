@@ -176,4 +176,4 @@ More discussion in *Approach.md*.
 ## License
 
 MIT © 2025 **Hosein Navaei Moakhkhar**
-*Provided for the Reffie take‑home evaluation; not for production use without permission.*
+*Provided for the Reffie ; not for production use without permission.*
